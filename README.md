@@ -13,7 +13,7 @@
 from pypresence import Presence
 import time
 
-client_id = 'ID'  # Fake ID, put your real one here
+client_id = '123456789123'  # Fake ID, put your real one here
 RPC = Presence(client_id)  # Initialize the client class
 RPC.connect() # Start the handshake loop
 
