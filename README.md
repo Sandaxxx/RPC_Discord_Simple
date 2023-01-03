@@ -1,6 +1,6 @@
-# RPC_Discord_Simple
+# __RPC_Discord_Simple__
 
-# INSTALLATION 
+# __INSTALLATION__
 >## ```pip install pastebinapi```
 
 
@@ -19,6 +19,6 @@ while True:  # The presence will stay on as long as the program is running
     time.sleep(15) # Can only update rich presence every 15 seconds
 ```
 
-## Build
+## __Build__
 * [Pypresence](https://pypi.org/project/pypresence/)
 * [Python](https://www.python.org/)
