@@ -1,0 +1,7 @@
+1) Go https://discord.com/developers/applications/ Create a application.
+2) Copy ID
+3) Add your id to ClientID = 'YOUR ID APPLICATION'
+
+if you can't do it, force it, man
+
+Enjoy ;)
