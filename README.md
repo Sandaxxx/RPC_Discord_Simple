@@ -6,6 +6,7 @@
 # __INSTALLATION__
 >### [Developper Portal](https://discord.com/developers/applications/) (Create Application)
 >## ```pip install pypresence```
+>## https://cdn.discordapp.com/attachments/1047918302841798718/1059956075492814848/image.png
 
 
 # EXEMPLE
