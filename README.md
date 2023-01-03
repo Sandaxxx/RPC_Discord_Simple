@@ -5,7 +5,7 @@
 
 # __INSTALLATION__
 >### [Developper Portal](https://discord.com/developers/applications/) (Create Application)
->## ```pip install pastebinapi```
+>## ```pip install pypresence```
 
 
 # EXEMPLE
