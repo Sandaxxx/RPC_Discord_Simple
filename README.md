@@ -3,6 +3,8 @@
 # INSTALLATION 
 >## ```pip install pastebinapi```
 
+
+# EXEMPLE
 ```py
 from pypresence import Presence
 import time
