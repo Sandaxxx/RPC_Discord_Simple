@@ -1,4 +1,4 @@
-# __RPC_Discord_Simple__
+# **A RPC Discord For Custom Activity**
 
 **Just a Rich Presence Discord to create a personalized activity for you with an easy-to-use module. Have fun 😋**
 ![background](https://cdn.discordapp.com/attachments/1047918302841798718/1059953539067158538/image.png)
