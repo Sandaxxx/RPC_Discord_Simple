@@ -1,7 +1,10 @@
 # __RPC_Discord_Simple__
+
+**Just a Rich Presence Discord to create a personalized activity for you with an easy-to-use module. Have fun 😋**
 ![background](https://cdn.discordapp.com/attachments/1047918302841798718/1059953539067158538/image.png)
 
 # __INSTALLATION__
+># [Developper Portal](https://discord.com/developers/applications/) (Create Application)
 >## ```pip install pastebinapi```
 
 
