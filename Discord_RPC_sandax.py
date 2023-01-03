@@ -5,7 +5,7 @@ from pypresence import Presence
 
 
 # ID OF APPLICATION DEVELOPPER PORTAL DISCORD (https://discord.com/developers/applications/) 
-ClientID = '1055081302770061402'
+ClientID = 'YOUR ID APPLICATION'
 
 RPC = Presence(ClientID) 
 RPC.connect() # CONNECTION 
