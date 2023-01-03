@@ -1,4 +1,5 @@
 # __RPC_Discord_Simple__
+![background](https://cdn.discordapp.com/attachments/1047918302841798718/1059953539067158538/image.png)
 
 # __INSTALLATION__
 >## ```pip install pastebinapi```
