@@ -4,7 +4,7 @@
 ![background](https://cdn.discordapp.com/attachments/1047918302841798718/1059953539067158538/image.png)
 
 # __INSTALLATION__
-># [Developper Portal](https://discord.com/developers/applications/) (Create Application)
+>### [Developper Portal](https://discord.com/developers/applications/) (Create Application)
 >## ```pip install pastebinapi```
 
 
