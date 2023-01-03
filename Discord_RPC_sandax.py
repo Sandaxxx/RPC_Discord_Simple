@@ -14,12 +14,12 @@ print(Fore.BLUE+"[♠] "+Fore.WHITE+"> "+Fore.YELLOW+"Connecting...")
 print(Fore.MAGENTA)
 
 print(RPC.update(
-    state="𝗖𝗵𝗲𝗰𝗸 𝗠𝘆 𝗚𝗶𝘁𝗛𝘂𝗯 🚀", # Second Text
-        details="𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗽𝗲𝗱 𝗕𝘆 𝗦𝗮𝗻𝗱𝗮𝘅#𝟯𝟵𝟴𝟰 💻", # First Text
-            large_image="sandaxpick", # Big Image 
-                 small_image="piquesmall", # Little image corner right
-                     large_text="Follow twitch vu que tu vois ça 🕵️‍♂️", # when your mouse hovers over the large image
-                            buttons=[{"label": "Discord 🌴", "url": "https://discord.gg/mDdGhkRSXx"}, {"label": "GitHub 👾", "url": "https://github.com/Sandaxxx"}],
+    state="Plz Star the project :'(", # Second Text
+        details="Dev by Sandax", # First Text
+            large_image="Image1", # Big Image 
+                 small_image="Image2", # Little image corner right
+                     large_text="If u see the message your a bot ", # when your mouse hovers over the large image
+                            buttons=[{"label": "Discord", "url": "https://discord.gg"}, {"label": "GitHub 👾", "url": "https://github.com/Sandaxxx/RPC_Discord_Simple"}],
 
     start=time.time()))
 print()
