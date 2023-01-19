@@ -15,7 +15,7 @@ print(Fore.MAGENTA)
 
 print(RPC.update(
     state="Plz Star the project :'(", # Second Text
-        details="Dev by Sandax", # First Text
+        details="Sandax", # First Text
             large_image="Image1", # Big Image 
                  small_image="Image2", # Little image corner right
                      large_text="If u see the message your a bot ", # when your mouse hovers over the large image
